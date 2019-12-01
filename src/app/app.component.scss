@@ -1,0 +1,11 @@
+
+$screen-background: lightgray;
+$navbar-background: white;
+
+.main-container {
+    background: $screen-background;
+}
+
+.container {
+    background: $navbar-background;
+}
